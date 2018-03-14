@@ -1,0 +1,24 @@
+{
+  "name": "project_mimirs_market",
+  "version": "1.0.0",
+  "description": "A Viking eCommerce store for Thunder Gods that like to buy \"Antique Wooden Pizzas\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisli4/project_mimirs_market.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisli4/project_mimirs_market/issues"
+  },
+  "homepage": "https://github.com/chrisli4/project_mimirs_market#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "sequelize": "^4.36.1"
+  }
+}
